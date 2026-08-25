@@ -5,7 +5,7 @@
 
 ## 0. 로그인
 
-![login](docs/login.png)
+![login](login.png)
 
 ▲ 로그인 팝업 —
 아이디/비밀번호
@@ -43,7 +43,7 @@
 
 ## 3. 카페 설정 탭
 
-![05_카페](docs/cafe.png)
+![05_카페](cafe.png)
 
 ▲ 왼쪽
 계정 설정
@@ -79,7 +79,7 @@ Gemini 프로필 브라우저 열기
 
 ## 4. 키워드 구성 탭
 
-![03_키워드](docs/keyword.png)
+![03_키워드](keyword.png)
 
 ▲
 구성 이름
@@ -105,7 +105,7 @@ Gemini 프로필 브라우저 열기
 
 ## 5. 작업 추가 탭
 
-![02_작업_추가](docs/task_add.png)
+![02_작업_추가](task_add.png)
 
 ▲
 키워드 구성
@@ -134,7 +134,7 @@ Gemini 프로필 브라우저 열기
 
 ## 6. 작업 시작 · 예약 발행
 
-![01_작업_목록](docs/task_list.png)
+![01_작업_목록](task_list.png)
 
 ▲
 작업 목록
